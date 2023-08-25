@@ -13,5 +13,5 @@ At any time, you have the right to request to view the Data pertaining to your D
 
 # Storage of Data
 
-Data is stored in a MongoDB database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of unauthorized Data access, users will be notified through the Discord client application.
+Data is stored in a MongoDB database. The database is secured to prevent external access, however no guarantee is provided and the bot owners assume no liability for the unintentional or malicious breach of Data. In the event of unauthorized Data access, users will be notified through the Discord client application.
 
